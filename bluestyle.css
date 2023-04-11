@@ -1,8 +1,16 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
 body {
     background-color: lightblue;
 }
 
 h1 {
     color: navy;
+    margin-left: 20px;
+}
+
+h2{
     margin-left: 20px;
 }
